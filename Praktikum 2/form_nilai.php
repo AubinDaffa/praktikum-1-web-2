@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"> 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<form class="ml-5 mr-5" action="proses_nilai.php" method="GET">
+<form class="form-horizontal" action="proses_nilai.php" method="POST">
   <div class="form-group row">
     <label for="nama" class="col-4 col-form-label">Nama</label> 
     <div class="col-8">
